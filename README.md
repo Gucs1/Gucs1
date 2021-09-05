@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gustavo C. Schimidt
 
-- 🔭 Em busca de uma oportunidade na área de 
+- 🔭 Em busca de uma oportunidade
 - 🌱 Estudando Python
 - 📫 Contate-me no email: Gustavocs.dev@gmail.com
 - 😄 Pronouns: ele/dele
