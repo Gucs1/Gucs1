@@ -3,7 +3,6 @@
 - 🔭 Em busca de uma oportunidade
 - 🌱 Estudando Python
 - 📫 Contate-me no email: Gustavocs.dev@gmail.com
-- 😄 Pronouns: ele/dele
 
  <div>
   <a href="https://github.com/Gucs1">
