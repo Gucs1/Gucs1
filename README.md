@@ -1,7 +1,7 @@
 ### Olá! Eu sou Gustavo C. Schimidt
 
 - 🔭 Em busca de uma oportunidade
-- 🌱 Estudando C# 
+- 🌱 Estudando TypeScript
 - 🌱 Estudante de Analise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: Gustavocs.dev@gmail.com
 
