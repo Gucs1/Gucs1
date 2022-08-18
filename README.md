@@ -1,7 +1,7 @@
 ### Olá! Eu sou Gustavo C. Schimidt
 
 - 🔭 Buscando Conhecimento SEMPRE!
-- 🌱 Estudando TypeScript
+- 🌱 Estudando Angular
 - 🌱 Estudante de Analise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: Gustavocs.dev@gmail.com
 
