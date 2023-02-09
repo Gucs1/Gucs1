@@ -7,7 +7,7 @@ Me chamo Gustavo Coelho Schimidt, Sou desenvolvedor Junior
 
 <center>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oliotaartesanato/)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gu.coelhoo/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=Gustavocs.dev@gmail.com&su=Contato+-+via+perfil+github&body=Ol%C3%A1+Gustavo+Tudo+bem?&tf=cm)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
 
