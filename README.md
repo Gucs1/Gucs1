@@ -4,15 +4,27 @@ Me chamo Gustavo Coelho Schimidt, Sou desenvolvedor Junior
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=gucs1&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=560BAD&height=120&section=header"/>
 
-<center>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=560BAD&size=35&center=true&vCenter=true&width=1000&lines=Hello World,+my+name+is+Gustav+Coelho+Schimidt;I'm+20+years+old;I'm+from+Brasil,+Santa+Catarina;I'm+actually+Full+Stack+Developer+with+Next;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gucs1&show_icons=true&count_private=true&hide_border=true&title_color=560BAD&icon_color=560BAD&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Coelho Schimidt github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=560BAD&text_color=560BAD&bg_color=0d1117" />
+</div>
+
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Gucs1&theme=high-contrast&hide_border=true&area=true&line=560BAD&point=560BAD&color=560BAD&radius=24&bg_color=0d1117)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gucs1&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
 [![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gu.coelhoo/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=Gustavocs.dev@gmail.com&su=Contato+-+via+perfil+github&body=Ol%C3%A1+Gustavo+Tudo+bem?&tf=cm)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
-
-
-</center>
+</div>
+  
 
 ## 🎓 Conhecimento 
 <table> 
