@@ -85,10 +85,9 @@
 <td>
 
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat&logo=oracle&logoColor=red)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat&logo=microsoft-Sql-Server)&nbsp;
-![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql)&nbsp;
+
 
 </td>
 </tr>
