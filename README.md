@@ -88,7 +88,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
-![PyCharm](https://img.shields.io/badge/-Pycharm-black?style=flat&logo=Pycharm&logoColor=blue)&nbsp;
 ![VisualG](https://img.shields.io/badge/-VisualG-black?style=flat&logo=v&logoColor=a66321)&nbsp;
 
 </td>
@@ -108,21 +107,6 @@
 </tr>
 
 <tr>
-
-<td>🏁</td>
-<td>Deploy</td>
-
- <td>
-
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
-![Firebase](https://img.shields.io/badge/-Google%20domains-black?style=flat&logo=google-domains)&nbsp;
-[![Google Play](https://img.shields.io/badge/-Google%20play-black?style=flat&logo=google-play)](https://play.google.com/store/apps/dev?id=4624325070796601602)&nbsp;
-
-</td>
-</tr>
-
 
 
 </tbody>
