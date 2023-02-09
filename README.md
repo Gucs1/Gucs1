@@ -1,6 +1,3 @@
-# Olá mundo🥳
-
-![Visitas em meu perfil](https://komarev.com/ghpvc/?username=gucs1&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=560BAD&height=120&section=header"/>
 
@@ -12,6 +9,8 @@
 </div>
 
 ![Snake animation](https://github.com/Gucs1/Gucs1/blob/output/github-contribution-grid-snake.svg)
+
+![Visitas em meu perfil](https://komarev.com/ghpvc/?username=gucs1&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 
 ## 🎓 Conhecimento 
