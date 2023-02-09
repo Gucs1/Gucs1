@@ -55,7 +55,7 @@
 
 
 <td>📲⌚</td>
-<td>Mobile/Smartwatch</td>
+<td>Mobile</td>
 <td>
 
 ![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
@@ -68,7 +68,7 @@
 
 
 <td >🪑🎲</td>
-<td >Database</td>
+<td >Banco de Dados</td>
 <td>
 
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
@@ -96,7 +96,7 @@
 <tr>
 
 <td>💾</td>
-<td>Version</td>
+<td>Versão</td>
 <td>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
