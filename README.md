@@ -2,12 +2,6 @@
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=gucs1&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
-<div align="center">  
-[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gu.coelhoo/)&nbsp;
-[![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=Gustavocs.dev@gmail.com&su=Contato+-+via+perfil+github&body=Ol%C3%A1+Gustavo+Tudo+bem?&tf=cm)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=560BAD&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=560BAD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Coelho+Schimidt;I'm+20+years+old;I'm+from+Brasil,+Santa+Catarina;I'm+studying+Analysis-and-systems-development;Be+Welcome!+:%29)](https://git.io/typing-svg)
