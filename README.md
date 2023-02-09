@@ -4,7 +4,7 @@
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=gucs1&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+analist+at+Capgemini)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Olá,+I'm+Rubem+Oliota;Senior+analist+at+Capgemini)](https://git.io/typing-svg)
 
 
 <center>
