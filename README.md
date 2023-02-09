@@ -11,7 +11,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gucs1&layout=compact&hide_border=true&title_color=560BAD&text_color=560BAD&bg_color=0d1117" />
 </div>
 
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Gucs1&theme=high-contrast&hide_border=true&area=true&line=560BAD&point=560BAD&color=560BAD&radius=24&bg_color=0d1117)
+![Snake animation](https://github.com/Gucs1/Gucs1/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">  
@@ -120,7 +120,7 @@
 ---
 
 
-  ![Snake animation](https://github.com/Gucs1/Gucs1/blob/output/github-contribution-grid-snake.svg)
+ 
  
   
 
