@@ -1,10 +1,8 @@
-# Hi there🥳
+# Olá mundo🥳
+Me chamo Gustavo Coelho Schimidt, Sou desenvolvedor Junior
 
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=gucs1&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Olá,+me chamo+Gustavo+Coelho Schimidt;Desenvolvedor+Junior+na+Publica Tecnologia;Multistack+instructor+on+Proway+entra21)](https://git.io/typing-svg)
 
 
 <center>
