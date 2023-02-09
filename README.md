@@ -11,10 +11,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gucs1&layout=compact&hide_border=true&title_color=560BAD&text_color=560BAD&bg_color=0d1117" />
 </div>
 
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Gucs1&theme=high-contrast&hide_border=true&area=true&line=560BAD&point=560BAD&color=560BAD&radius=24&bg_color=0d1117)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gucs1&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">  
 [![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gu.coelhoo/)&nbsp;
