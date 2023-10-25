@@ -8,11 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gucs1&layout=compact&hide_border=true&title_color=560BAD&text_color=560BAD&bg_color=0d1117" />
 </div>
 
-![Snake gif](https://github.com/Gucs1/Gucs1/blob/output/github-contribution-grid-snake.svg)
-
-            
-
-
 ## Meus contatos :iphone:
 
 <p align="center">
