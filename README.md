@@ -9,6 +9,9 @@
 </div>
 
 ![Snake animation](https://github.com/Gucs1/Gucs1/blob/output/github-contribution-grid-snake.svg)
+- name: gitartwork on contribution graph
+ uses: Gustavo/gitartwork@v1
+            
 
 
 ## Meus contatos :iphone:
