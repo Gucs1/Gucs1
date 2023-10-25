@@ -8,9 +8,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gucs1&layout=compact&hide_border=true&title_color=560BAD&text_color=560BAD&bg_color=0d1117" />
 </div>
 
-![Snake animation](https://github.com/Gucs1/Gucs1/blob/output/github-contribution-grid-snake.svg)
-- name: gitartwork on contribution graph
- uses: Gustavo/gitartwork@v1
+![Snake gif](https://github.com/Gucs1/Gucs1/blob/output/github-contribution-grid-snake.svg)
+
             
 
 
