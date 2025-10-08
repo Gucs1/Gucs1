@@ -33,10 +33,10 @@
 <td >👨🏻‍💻</td>
 <td>Backend</td>
 <td>
-<img src="https://img.shields.io/badge/-Java-black?style=flat&logo=Java">
-![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
+
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 </td>
 </tr>
@@ -46,16 +46,33 @@
 <td>Frontend</td>
 <td>
 
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
-![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat&logo=jquery)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red)&nbsp;
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+
+</td>
+
+</tr>
+
+<tr>
+
+<tr>
+<td>🖼️</td>
+<td>Framework</td>
+<td>
+  
+  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+  [![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff)](#)
+  [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+  [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+  [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+  [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
+  [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
+  [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+  [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 
 </td>
 
@@ -76,7 +93,6 @@
 
 <tr>
 
-
 <td >🪑🎲</td>
 <td >Banco de Dados</td>
 <td>
@@ -84,6 +100,9 @@
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat&logo=microsoft-Sql-Server)&nbsp;
+[![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 
 
 </td>
@@ -98,6 +117,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
 ![VisualG](https://img.shields.io/badge/-VisualG-black?style=flat&logo=v&logoColor=a66321)&nbsp;
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 
 </td>
 </tr>
@@ -112,6 +133,35 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-Git%20Lab-black?style=flat&logo=gitlab)&nbsp;
 
+</td>
+</tr>
+
+<tr>
+
+<tr>
+
+<td>📄</td>
+<td>Documentação</td>
+<td>
+
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
+[![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](#)
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
+
+</td>
+</tr>
+
+<tr>
+
+<tr>
+
+<td>🎨</td>
+<td>Design</td>
+<td>
+
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+  
 </td>
 </tr>
 
