@@ -33,7 +33,7 @@
 <td >👨🏻‍💻</td>
 <td>Backend</td>
 <td>
-
+<img src="https://img.shields.io/badge/-Java-black?style=flat&logo=Java">
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
