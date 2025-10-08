@@ -47,7 +47,7 @@
 <td>
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
@@ -73,19 +73,7 @@
   [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
   [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
   [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-
-</td>
-
-</tr>
-
-<tr>
-
-
-<td>📲⌚</td>
-<td>Mobile</td>
-<td>
-
-![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
+  ![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
 
 </td>
 
@@ -119,6 +107,7 @@
 ![VisualG](https://img.shields.io/badge/-VisualG-black?style=flat&logo=v&logoColor=a66321)&nbsp;
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
 
 </td>
 </tr>
@@ -147,6 +136,17 @@
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 [![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
+
+</td>
+</tr>
+
+<tr>
+<td>📋</td>
+<td>Gerenciamento / Ágil</td>
+<td>
+  
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](#)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)](#)
 
 </td>
 </tr>
