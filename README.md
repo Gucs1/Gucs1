@@ -1,180 +1,145 @@
+<!-- BANNER TOPO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=140&section=header"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Coelho+Schimidt;I'm+23+years+old;I'm+from+Brasil,+Santa+Catarina;I+graduated+in+Analysis+and+Systems+Development;Postgraduate+in+Java+Technology+Specialization;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gucs1&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Coelho Schimidt github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gucs1&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
-</div>
-
-## Meus contatos :iphone:
-
-<p align="center">
-    <a href="https://github.com/Gucs1">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Gucs1">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:Gustavocs.dev@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:Gustavocs.dev@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/gustavo-coelho-schimidt-286311214">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gustavo-coelho-schimidt-286311214/">
-    </a>
-</p>
-
-
-
-## 🎓 Conhecimento 
-<table> 
-<tbody style="text-align:center">
-<tr>
-<td >👨🏻‍💻</td>
-<td>Backend</td>
-<td>
-
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-
-</td>
-</tr>
-
-<tr>
-<td>👁‍🗨</td>
-<td>Frontend</td>
-<td>
-
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-
-</td>
-
-</tr>
-
-<tr>
-
-<tr>
-<td>🖼️</td>
-<td>Framework</td>
-<td>
-  
-  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-  [![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff)](#)
-  [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-  [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
-  [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-  [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-  [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
-  [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
-  [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
-  [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-  ![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
-
-</td>
-
-</tr>
-
-<tr>
-
-<td >🪑🎲</td>
-<td >Banco de Dados</td>
-<td>
-
-![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
-![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)&nbsp;
-![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat&logo=microsoft-Sql-Server)&nbsp;
-[![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
-
-
-</td>
-</tr>
-
-<tr>
-
-<td>🔧</td>
-<td>IDE</td>
-<td>
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
-![VisualG](https://img.shields.io/badge/-VisualG-black?style=flat&logo=v&logoColor=a66321)&nbsp;
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
-
-</td>
-</tr>
-
-<tr>
-
-<td>💾</td>
-<td>Versão</td>
-<td>
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-Git%20Lab-black?style=flat&logo=gitlab)&nbsp;
-
-</td>
-</tr>
-
-<tr>
-
-<tr>
-
-<td>📄</td>
-<td>Documentação</td>
-<td>
-
-[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
-[![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](#)
-[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
-
-</td>
-</tr>
-
-<tr>
-<td>📋</td>
-<td>Gerenciamento / Ágil</td>
-<td>
-  
-[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](#)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)](#)
-
-</td>
-</tr>
-
-<tr>
-
-<tr>
-
-<td>🎨</td>
-<td>Design</td>
-<td>
-
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-  
-</td>
-</tr>
-
-<tr>
-
-
-</tbody>
-</table>
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=32&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gustavo+Coelho+Schimidt;23+years+old+developer;From+Santa+Catarina,+Brazil;Graduated+in+Analysis+and+Systems+Development;Postgraduate+in+Java+Technology+Specialization;Full+Stack+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ---
 
+# 🌟 Sobre mim
 
- 
- 
+Sou um desenvolvedor **Full Stack** dedicado a criar soluções modernas, escaláveis e seguras.  
+Apaixonado por **Java, arquitetura de software, cloud e boas práticas**, busco constante evolução para alcançar posições de alto impacto como **Engenheiro de Software, Arquiteto e futuramente CTO**.
+
+💡 Sempre aprendendo.  
+🔥 Sempre evoluindo.  
+🚀 Sempre mirando no próximo nível.
+
+---
+
+# 🎯 Objetivos Profissionais
+- 🚀 Evoluir como **Arquiteto de Software**
+- 💼 Atuar em empresas do **Brasil e exterior**
+- ☁️ Especialização profunda em Cloud, DevSecOps e Java
+- 🌍 Trabalhar em equipes globais
+- 🧠 Construir expertise para futuramente ser **CTO**
+
+---
+
+# 🧠 Skills e Tecnologias  
+
+## 💻 **Backend**
+<div>
   
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+</div>
+
+---
+
+## 🎨 **Frontend**
+<div>
+
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+</div>
+
+---
+
+## 🗄️ **Banco de Dados**
+<div>
+
+![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</div>
+
+---
+
+## ⚙️ **Ferramentas & DevOps**
+<div>
+
+![Git](https://img.shields.io/badge/Git-F05133?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+</div>
+
+---
+
+## 🧰 **IDEs**
+<div>
+
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+
+</div>
+
+---
+
+# 📈 Estatísticas GitHub
+
+<div align="center">
+  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gucs1&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117"/>
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gucs1&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# 🐍 Snake Contrib  
+<div align="center">
+<img src="https://github.com/Gucs1/Gucs1/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+
+---
+
+# 🚀 Projetos em Destaque
+
+### 🔹 **Sistema Completo em Java com CRUD e Swagger**
+> API profissional com boas práticas, validações, camadas, DTO, Swagger e testes.  
+🔗 *Em breve adiciono link aqui quando você subir para o GitHub.*
+
+### 🔹 **Plataforma Full Stack – React + Java + SQL Server**
+> Projeto completo no estilo empresa: backend + frontend + banco + autenticação.
+
+### 🔹 **Sistema de RH – Regras de Progressão Salarial**
+> Lógica complexa + regras de negócio + SQL + validações.
+
+---
+
+# 🌐 Links e Contato
+
+<p align="center">
+<a href="https://www.linkedin.com/in/gustavo-coelho-schimidt-286311214">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Gustavocs.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Gucs1">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=140&section=footer"/>
