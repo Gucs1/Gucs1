@@ -1,3 +1,4 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Coelho+Schimidt;I'm+23+years+old;I'm+from+Brasil,+Santa+Catarina;I+graduated+in+Analysis+and+Systems+Development;Postgraduate+in+Java+Technology+Specialization;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -23,15 +24,7 @@
     </a>
 </p>
 
-# 🧬 **Sobre mim**
-💼 Desenvolvedor Full Stack  
-📌 Santa Catarina — Brasil  
-🎓 Pós-graduado em Especialização em Tecnologia Java  
-💡 Apaixonado por tecnologia, arquitetura, performance e boas práticas  
-🔥 Sonho grande: **CTO**  
-🚀 Mentalidade: evolução constante, disciplina e inovação  
 
----
 
 ## 🎓 Conhecimento 
 <table> 
