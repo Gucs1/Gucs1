@@ -1,3 +1,63 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+
+<p align="center">
+  <img src="https://github.com/Gucs1/Gucs1/blob/main/assets/foto.png" width="160" style="border-radius: 50%; border: 3px solid #00BFFF;">
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Coelho+Schimidt;I'm+23+years+old;I'm+from+Brasil,+Santa+Catarina;I+graduated+in+Analysis+and+Systems+Development;Postgraduate+in+Java+Technology+Specialization;Full+Stack+Developer;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
+
+---
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gucs1&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Coelho Schimidt GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gucs1&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
+</div>
+
+---
+
+# 📞 **Meus Contatos**
+
+<p align="center">
+    <a href="https://github.com/Gucs1">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:Gustavocs.dev@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/gustavo-coelho-schimidt-286311214">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</p>
+
+---
+
+# 🧬 **Sobre mim**
+💼 Desenvolvedor Full Stack  
+📌 Santa Catarina — Brasil  
+🎓 Pós-graduado em Especialização em Tecnologia Java  
+💡 Apaixonado por tecnologia, arquitetura, performance e boas práticas  
+🔥 Sonho grande: **CTO**  
+🚀 Mentalidade: evolução constante, disciplina e inovação  
+
+---
+
+# 🧠 **Linha do Tempo da Minha Evolução**
+```mermaid
+timeline
+    title Minha Jornada na Tecnologia
+    2018 : Início dos estudos em TI
+    2020 : Graduação em ADS
+    2021 : Financeiro → Aprendizagem corporativa
+    2022 : GovTech → Desenvolvedor Backend (LSP/SQL)
+    2023 : Full Stack → React / Java / C#
+    2024 : DevOps e Arquitetura → Expansão técnica
+    2025 : Pós-graduação Java / Projetos avançados
+    2030 : Tech Lead / Arquiteto
+    2035 : CTO
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
