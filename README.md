@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Coelho+Schimidt;I'm+23+years+old;I'm+from+Brasil,+Santa+Catarina;I+graduated+in+Analysis+and+Systems+Development;Postgraduate+in+Java+Technology+Specialization;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ---
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Gucs1&color=00BFFF">
+</p>
 
 ## 👨‍💻 Sobre mim  
 Sou desenvolvedor full stack com 3 anos de experiência, apaixonado por criar sistemas eficientes e de alto impacto.  
@@ -165,10 +168,6 @@ Sou movido por tecnologia, aprendizado contínuo e desafios reais.
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gucs1&color=00BFFF&style=for-the-badge">
-</p>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
