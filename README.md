@@ -12,10 +12,6 @@ Sou movido por tecnologia, aprendizado contínuo e desafios reais.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gucs1&color=00BFFF&style=for-the-badge">
-</p>
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gucs1&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Coelho Schimidt github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gucs1&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
@@ -169,5 +165,10 @@ Sou movido por tecnologia, aprendizado contínuo e desafios reais.
 </table>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gucs1&color=00BFFF&style=for-the-badge">
+</p>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
