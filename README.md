@@ -37,6 +37,7 @@ Sou movido por tecnologia, aprendizado contínuo e desafios reais.
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
+
  
 ## 🎓 Conhecimento 
 <table> 
