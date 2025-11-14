@@ -1,145 +1,207 @@
-<!-- BANNER TOPO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=140&section=header"/>
-
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=32&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gustavo+Coelho+Schimidt;23+years+old+developer;From+Santa+Catarina,+Brazil;Graduated+in+Analysis+and+Systems+Development;Postgraduate+in+Java+Technology+Specialization;Full+Stack+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-
----
-
-# 🌟 Sobre mim
-
-Sou um desenvolvedor **Full Stack** dedicado a criar soluções modernas, escaláveis e seguras.  
-Apaixonado por **Java, arquitetura de software, cloud e boas práticas**, busco constante evolução para alcançar posições de alto impacto como **Engenheiro de Software, Arquiteto e futuramente CTO**.
-
-💡 Sempre aprendendo.  
-🔥 Sempre evoluindo.  
-🚀 Sempre mirando no próximo nível.
-
----
-
-# 🎯 Objetivos Profissionais
-- 🚀 Evoluir como **Arquiteto de Software**
-- 💼 Atuar em empresas do **Brasil e exterior**
-- ☁️ Especialização profunda em Cloud, DevSecOps e Java
-- 🌍 Trabalhar em equipes globais
-- 🧠 Construir expertise para futuramente ser **CTO**
-
----
-
-# 🧠 Skills e Tecnologias  
-
-## 💻 **Backend**
-<div>
-  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-## 🎨 **Frontend**
-<div>
-
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-</div>
-
----
-
-## 🗄️ **Banco de Dados**
-<div>
-
-![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
----
-
-## ⚙️ **Ferramentas & DevOps**
-<div>
-
-![Git](https://img.shields.io/badge/Git-F05133?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
-
----
-
-## 🧰 **IDEs**
-<div>
-
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-
-</div>
-
----
-
-# 📈 Estatísticas GitHub
-
-<div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gucs1&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117"/>
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gucs1&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117"/>
-
-</div>
-
----
-
-# 🐍 Snake Contrib  
-<div align="center">
-<img src="https://github.com/Gucs1/Gucs1/blob/output/github-contribution-grid-snake.svg"/>
-</div>
-
----
-
-# 🚀 Projetos em Destaque
-
-### 🔹 **Sistema Completo em Java com CRUD e Swagger**
-> API profissional com boas práticas, validações, camadas, DTO, Swagger e testes.  
-🔗 *Em breve adiciono link aqui quando você subir para o GitHub.*
-
-### 🔹 **Plataforma Full Stack – React + Java + SQL Server**
-> Projeto completo no estilo empresa: backend + frontend + banco + autenticação.
-
-### 🔹 **Sistema de RH – Regras de Progressão Salarial**
-> Lógica complexa + regras de negócio + SQL + validações.
-
----
-
-# 🌐 Links e Contato
+<!-- ===================================================================================== -->
+<!-- ====================================== BANNER ======================================= -->
+<!-- ===================================================================================== -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gustavo-coelho-schimidt-286311214">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:Gustavocs.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Gucs1">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Coelho+Schimidt;I'm+23+years+old;I'm+from+Brasil,+Santa+Catarina;I+graduated+in+Analysis+and+Systems+Development;Postgraduate+in+Java+Technology+Specialization;Be+Welcome!+:%29">
 </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=140&section=footer"/>
+# 🌎 README em Português (PT-BR)
+
+# 👨‍💻 Sobre Mim
+Sou **Gustavo Coelho Schimidt**, desenvolvedor **Full Stack**, com foco principal em **Java** e em construir sistemas sólidos, escaláveis e com performances reais.
+
+🚀 **Atualmente:**  
+- Pós-graduando em *Especialização em Tecnologia Java*  
+- Experiência com backend, frontend, banco de dados e arquitetura  
+- Buscando crescimento para posições de **Sênior, Tech Lead e futuramente CTO**
+
+🎯 **Objetivo Final:** trabalhar internacionalmente e atingir cargos executivos em tecnologia.
+
+---
+
+# 🔥 Minha História (My Story)
+Comecei jovem na área de tecnologia e rapidamente fui me apaixonando por desenvolvimento.  
+Trabalhei com diversas tecnologias, me destaquei na área de sistemas públicos (GovTech) e hoje minha meta é:
+
+**“Ser um dos melhores profissionais de tecnologia do Brasil — e competir com os grandes lá fora.”**
+
+Sou movido por:
+- 🔍 Curiosidade  
+- 👨🏻‍💻 Prática constante  
+- 📚 Estudos diários  
+- 🚀 Ambição saudável  
+
+---
+
+# 🧠 Competências Técnicas (Tech Stack)
+
+### 👨🏻‍💻 Linguagens & Frameworks  
+<p>
+  <img height="40" src="https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,html,css,nodejs,python" />
+</p>
+
+### 🛢 Bancos de Dados  
+<p>
+  <img height="40" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+  <img height="40" src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+### 🧰 Ferramentas & DevOps  
+<p>
+  <img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,vscode,idea" />
+</p>
+
+---
+
+# 🎓 Certificações (atuais e futuras)
+✔️ Curso de Auxiliar Financeiro – SENAC  
+✔️ Certificações internas de desenvolvimento  
+⬜ Oracle Certified Professional: Java SE 17 Developer  
+⬜ Oracle Certified Associate  
+⬜ Certificação Azure Fundamentals  
+⬜ Certificação DevSecOps Foundation  
+
+---
+
+# 🏆 Roadmap para Senior → Tech Lead → CTO
+
+### **2025 – Consolidar Senior**
+- Aperfeiçoar Spring Boot, Security, JPA, Docker  
+- Criar 2 APIs completas com Clean Architecture  
+- Obter certificação Java  
+- Criar portfolio internacional  
+- Aprimorar inglês (meta: avançado)
+
+### **2026 – Virar Tech Lead**
+- Aprender Arquitetura Avançada:  
+  - DDD  
+  - Microservices  
+  - Event-Driven  
+- Aprender Cloud profundamente (Azure ou AWS)  
+- Liderar pequenos times e projetos  
+- Criar projetos open-source
+
+### **2027+ – Rumo a CTO**
+- MBA em Liderança ou Gestão de Tecnologia  
+- Participar de decisões estratégicas  
+- Liderança de times maiores  
+- Criar soluções de alto impacto  
+
+---
+
+# 📊 GitHub Stats (avançado)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guxtagol&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guxtagol&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Snake Contributions
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📁 Projetos em Destaque
+
+### 🔹 API Java – Clean Architecture
+Um backend completo com:
+- DDD  
+- Docker  
+- Testes unitários  
+- JWT  
+- Documentação Swagger  
+
+> Disponível em breve no GitHub
+
+---
+
+### 🔹 Sistema Full Stack para RH
+- Java + React  
+- Controle de métricas  
+- Rotinas avançadas  
+- Relatórios  
+- Regras de negócio complexas
+
+> Em desenvolvimento
+
+---
+
+# 📬 Contato
+<p align="center">
+  <a href="mailto:gustavocoelhoml@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-coelho-schimidt">
+    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ "Grow without losing your essence." ✨  
+</p>
+
+
+<!-- ===================================================================================== -->
+<!-- =================================== VERSÃO EM INGLÊS ================================= -->
+<!-- ===================================================================================== -->
+
+# 🌎 README in English (EN)
+
+# 👨‍💻 About Me  
+I am **Gustavo Coelho Schimidt**, a passionate **Full Stack Developer** specializing in **Java** and scalable backend systems.
+
+🎓 Graduated in Analysis and Systems Development  
+🎓 Postgraduate in Java Technology  
+🔥 Focused on architecture, performance, Cloud and leadership  
+
+🎯 Life Goal:  
+**Become a CTO and work internationally.**
+
+---
+
+# ✨ My Story  
+I started very young in development and immersed myself in creating impactful systems.  
+Now I pursue:
+
+- High-level coding  
+- High-level architecture  
+- High-level leadership  
+
+My mission is simple:
+
+**"Become one of the best devs in Brazil — and compete globally."**
+
+---
+
+# 🚀 Tech Stack  
+(English version uses the same icons above)
+
+---
+
+# 💼 Featured Projects  
+(Same as PT-BR version)
+
+---
+
+# 📊 GitHub Stats  
+(Same as above)
+
+---
+
+# 📫 Contact Me  
+(Same as above)
+
+---
+
+<p align="center">  
+  🚀 *Always improving. Always growing.*  
+</p>
+
