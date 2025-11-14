@@ -20,18 +20,14 @@ jobs:
         id: snake
         with:
           github_user_name: Gucs1
-
-          # Arquivos gerados
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-          # CUSTOMIZAÇÃO COMPLETA - DEIXAR FUNDO PRETO
-          palette: github-dark        # deixa base escura
-          color_snake: "#00BFFF"       # cor da cobrinha
-          color_dots: "000000,ffffff"  # FUNDO PRETO - DOTS: fundo,atividade
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark&color_snake=#00BFFF
 
-      - name: Publish Snake to GitHub Pages (output branch)
+      - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
