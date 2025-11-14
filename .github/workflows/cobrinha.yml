@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Gera a cada 12h
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -20,12 +20,18 @@ jobs:
         id: snake
         with:
           github_user_name: Gucs1
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=#00BFFF
 
-      - name: Push Snake to Output Branch
+          # Arquivos gerados
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg
+
+          # CUSTOMIZAÇÃO COMPLETA - DEIXAR FUNDO PRETO
+          palette: github-dark        # deixa base escura
+          color_snake: "#00BFFF"       # cor da cobrinha
+          color_dots: "000000,ffffff"  # FUNDO PRETO - DOTS: fundo,atividade
+
+      - name: Publish Snake to GitHub Pages (output branch)
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
