@@ -1,178 +1,202 @@
-<!-- ====================================================================== -->
-<!--                           BANNER ANIMADO                               -->
-<!-- ====================================================================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1200&lines=Hello,+I'm+Gustavo+Coelho+Schimidt;I'm+23+years+old;I'm+from+Brasil,+Santa+Catarina;Graduated+in+Analysis+and+Systems+Development;Postgraduate+in+Java+Technology;Full+Stack+Developer;Future+CTO;Be+Welcome!+:%29" />
-</p>
+🌌 Guxtagol — Software Engineer | Full Stack | Future CTO
+Clean Architecture • High Performance • DevSecOps • Cloud • Leadership
+<div align="center"> <img src="https://i.imgur.com/ux6Y0QT.png" width="180" style="border-radius:16px"> </div>
+🧬 Quem eu sou
 
----
+Sou Guxtagol, desenvolvedor Full Stack apaixonado por tecnologia, arquitetura e liderança.
+Trabalho criando soluções corporativas de alta performance para prefeituras, com grande experiência em:
 
-# <p align="center">🚀 Full Stack Developer | Java Specialist | Future CTO</p>
+💠 Rotinas complexas em LSP
+💠 Sistemas de RH com regras avançadas
+💠 Validações, cálculos e modelos oficiais (OPE/REL)
+💠 SQL avançado
+💠 Frontend moderno (React/TS)
+💠 Engenharia de Software corporativa
 
-<p align="center">
-  <!-- Coloque sua foto no repositório e troque o caminho abaixo -->
-  <img src="./assets/gustavo.png" width="180" style="border-radius: 50%; border: 4px solid #00BFFF;" />
-</p>
+Minha missão:
+Me tornar CTO, liderar grandes times, criar produtos de impacto e deixar um legado.
 
----
+⚡ Highlights que me definem
 
-# 🧑‍💻 About Me
+✔ 3+ anos criando código que move prefeituras (GovTech)
+✔ Dev com mentalidade de Arquiteto
+✔ Buscando carreira global (BR → Exterior)
+✔ Estudo diariamente Java, DevSecOps, Cloud e Arquitetura
+✔ Inglês intermediário (em progresso)
+✔ Focado, disciplinado e com visão de crescimento
 
-Olá! Meu nome é **Gustavo Coelho Schimidt**, tenho **23 anos**, sou de **Santa Catarina – Brasil**,  
-e atuo como **Desenvolvedor Full Stack**, com foco em **Java**, arquitetura, sistemas escaláveis e liderança técnica.
+🛠️ Stack Atual
+💻 Backend
 
-Sou apaixonado por:
+LSP (Senior Sistemas)
 
-- Arquitetura de Software  
-- Clean Architecture  
-- Desenvolvimento de APIs robustas  
-- SQL otimizado  
-- Cloud  
-- Segurança  
-- Boas práticas e código limpo  
+Java (Spring Boot, REST)
 
-🎯 **Objetivo atual:** evoluir para **Senior → Tech Lead → Arquiteto → CTO**  
-🌎 **Sonho:** atuar globalmente e liderar equipes de tecnologia.
+C# / .NET
 
----
+Python
 
-# ⚙️ Tech Stack
+SQL Server - consultas complexas, otimização, modelagem
 
-### 🧠 Languages & Frameworks
-<p>
-  <img height="45" src="https://skillicons.dev/icons?i=java,spring,js,ts,html,css,react,angular,python,nodejs" />
-</p>
+🌐 Frontend
 
-### 🗄 Databases
-<p>
-  <img height="45" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-</p>
+React
 
-### ☁ Cloud & DevOps
-<p>
-  <img height="45" src="https://skillicons.dev/icons?i=azure,docker,kubernetes,gitlab,github,postman" />
-</p>
+TypeScript
 
----
+Next.js (estudo futuro)
 
-# 🏅 Certifications & Education
-- 🎓 **ADS — Analysis and Systems Development**
-- 🎓 **Pós-graduação: Especialização em Tecnologia Java**
-- 📘 Certificações em:
-  - Scrum  
-  - Kanban  
-  - Java  
-  - C#  
-  - Python  
-  - SQL Server  
-  - Front-end (HTML, CSS, TS, React)
+Interfaces modernas e responsivas
 
----
+🚀 Cloud & DevOps
 
-# 🧭 Career Timeline
+Git / GitLab CI/CD
 
-2020 — Início dos estudos em programação
-2021 — Primeiro contato com desenvolvimento profissional
-2022 — ADS concluído
-2022 — Início como Dev Júnior
-2023 — Evolução com rotinas complexas em RH e setor público
-2024 — Full Stack Developer | Java + SQL + LSP
-2025 — Pós-graduação em Tecnologia Java
-2025 — English Intermediate
-2026 → Meta: Desenvolvedor Sênior
-2027 → Meta: Tech Lead / Arquiteto
-2029 → Meta: CTO
+Pipelines
 
+Containers
 
----
+Azure (migrações e governança)
 
-# 🧠 Skills Level
+🔐 Segurança
 
-### ⭐ Backend
-| Tecnologia | Nível |
-|-----------|--------|
-| Java | ⭐⭐⭐⭐☆ |
-| Spring Boot | ⭐⭐⭐⭐☆ |
-| SQL Server | ⭐⭐⭐⭐⭐ |
-| APIs REST | ⭐⭐⭐⭐⭐ |
-| LSP (Senior) | ⭐⭐⭐⭐⭐ |
+Boas práticas DevSecOps
 
-### ⭐ Frontend
-| Tecnologia | Nível |
-|-----------|--------|
-| HTML/CSS | ⭐⭐⭐⭐☆ |
-| JavaScript | ⭐⭐⭐⭐☆ |
-| React | ⭐⭐⭐☆☆ |
+Aplicação de segurança desde a arquitetura
 
-### ⭐ DevOps
-| Tecnologia | Nível |
-|-----------|--------|
-| Git/GitLab | ⭐⭐⭐⭐⭐ |
-| Docker | ⭐⭐⭐☆☆ |
-| Azure | ⭐⭐⭐☆☆ |
+Versionamento limpo e seguro
 
----
+🧩 Vitrine de Projetos (Showcase)
+🔵 Progressão Salarial Automática
 
-# 🚀 Featured Projects
+Sistema TOP de RH com:
 
-### 🔹 **Java API — Clean Architecture**
-- Spring Boot  
-- JWT Auth  
-- Swagger  
-- Repository Pattern  
-- SQL otimizado
+Pontuação por cursos
 
-### 🔹 **HR Full Stack System**
-- Regras complexas de RH  
-- Relatórios  
-- Java + React  
-- Telas, cálculos e propostas automáticas  
+Afastamentos
 
-### 🔹 **Finance Manager App**
-- React Native  
-- Controle financeiro completo  
-- Dashboard  
-- Sincronização em Cloud  
+Datas automáticas
 
----
+Propostas de aumento
 
-# 📈 GitHub Stats
+Cálculo de salário
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Guxtagol&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guxtagol&layout=compact&theme=tokyonight" />
-</p>
+Interface única integrada
 
----
+Filtro por período de progressão
 
-# 🐍 Contributions Snake
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+Um dos projetos mais completos em LSP que um dev pode desenvolver.
 
----
+🟣 Rotina de Férias — Texto Oficial Automático
 
-# 🧩 QR Code — LinkedIn
-<!-- Gere um QR Code e coloque no repositório -->
-<p align="center">
-  <img src="./assets/qrcode-linkedin.png" width="180" />
-</p>
+Montagem de texto institucional
 
----
+Integração completa com tabelas
 
-# ☕ Contact
+Validação por cargo, classe, nível
 
-<p align="center">
-  <a href="mailto:gustavocoelhoml@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-coelho-schimidt">
-    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+Modelos personalizados
 
----
+Automação de processos internos
 
-<p align="center">
-  ✨ <i>"Growing every day — without losing my essence."</i> ✨
-</p>
+🟢 Jogo de Futebol Unity WebGL
+
+IA
+
+Sistema de placar
+
+Física realista
+
+Som
+
+Jogadores múltiplos
+
+Otimizado para web
+
+🏗️ Roadmap para virar Arquiteto → CTO
+🔰 Curto prazo (0–12 meses)
+
+Java completo
+
+Spring Boot avançado
+
+GitLab CI/CD
+
+Testes unitários e integração
+
+SQL avançado
+
+Arquitetura limpa
+
+Design Patterns
+
+🔷 Médio prazo (1–2 anos)
+
+Cloud (Azure/AWS)
+
+DevSecOps completo
+
+Liderar pequenos times
+
+Projetos de arquitetura real
+
+Microserviços
+
+🟦 Longo prazo (3–5 anos)
+
+Inglês avançado
+
+MBA / Pós
+
+Liderança técnica
+
+Entrar em uma posição global
+
+Evoluir para Arquiteto / Tech Lead / Engineering Manager
+
+🟥 Meta Final
+CTO — Chief Technology Officer
+
+Construindo, liderando e inovando.
+
+🧱 Minha Filosofia de Desenvolvimento
+
+"Código bom não é o que funciona.
+É o que é simples, legível, escalável e seguro."
+
+→ Prefiro clareza a complexidade
+→ Escrevo código para pessoas, não para máquinas
+→ Refatoro sempre que necessário
+→ Segurança desde o início
+→ Arquitetura acima da pressa
+
+🌐 Minhas Ferramentas Favoritas
+
+📊 Stats Premium Style
+<div align="center">
+
+</div>
+🎯 Objetivos 2025
+
+💠 Fechar Java + Spring Boot
+
+💠 Criar 3 projetos grandes públicos
+
+💠 Aprimorar inglês
+
+💠 Criar portfólio profissional
+
+💠 Dominar DevSecOps
+
+💠 Entrar em um cargo nível pleno sênior / especialista
+
+🤝 Contato
+
+📩 Email: adicione
+💼 LinkedIn: adicione
+🌍 Portfólio: em construção
+
+🏁 Mensagem Final
+
+Este README não é apenas uma apresentação.
+É o primeiro capítulo da história do CTO Guxtagol.
