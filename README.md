@@ -1,7 +1,20 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Coelho+Schimidt;I'm+23+years+old;I'm+from+Brasil,+Santa+Catarina;I+graduated+in+Analysis+and+Systems+Development;Postgraduate+in+Java+Technology+Specialization;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+---
+
+## 👨‍💻 Sobre mim  
+Sou desenvolvedor full stack com 3 anos de experiência, apaixonado por criar sistemas eficientes e de alto impacto.  
+Atuo principalmente com Java, Spring, LSP (Senior Sistemas) e SQL Server.  
+Busco evoluir para cargos de liderança técnica como Arquiteto de Software e, futuramente, CTO.  
+Sou movido por tecnologia, aprendizado contínuo e desafios reais.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gucs1&color=00BFFF&style=for-the-badge">
+</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gucs1&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Coelho Schimidt github stats" /> 
@@ -12,23 +25,24 @@
 
 <p align="center">
     <a href="https://github.com/Gucs1">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Gucs1">
+        <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:Gustavocs.dev@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:Gustavocs.dev@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/gustavo-coelho-schimidt-286311214">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gustavo-coelho-schimidt-286311214/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
 
-
+---
 
 ## 🎓 Conhecimento 
 <table> 
 <tbody style="text-align:center">
+
 <tr>
 <td >👨🏻‍💻</td>
 <td>Backend</td>
@@ -52,10 +66,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
 </td>
-
 </tr>
-
-<tr>
 
 <tr>
 <td>🖼️</td>
@@ -76,11 +87,9 @@
   ![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
 
 </td>
-
 </tr>
 
 <tr>
-
 <td >🪑🎲</td>
 <td >Banco de Dados</td>
 <td>
@@ -92,12 +101,10 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 
-
 </td>
 </tr>
 
 <tr>
-
 <td>🔧</td>
 <td>IDE</td>
 <td>
@@ -113,7 +120,6 @@
 </tr>
 
 <tr>
-
 <td>💾</td>
 <td>Versão</td>
 <td>
@@ -126,9 +132,6 @@
 </tr>
 
 <tr>
-
-<tr>
-
 <td>📄</td>
 <td>Documentação</td>
 <td>
@@ -144,7 +147,7 @@
 <td>📋</td>
 <td>Gerenciamento / Ágil</td>
 <td>
-  
+
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)](#)
 
@@ -152,9 +155,6 @@
 </tr>
 
 <tr>
-
-<tr>
-
 <td>🎨</td>
 <td>Design</td>
 <td>
@@ -165,16 +165,9 @@
 </td>
 </tr>
 
-<tr>
-
-
 </tbody>
 </table>
 
 ---
 
-
- 
- 
-  
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
