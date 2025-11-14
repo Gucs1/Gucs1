@@ -33,21 +33,6 @@
 
 ---
 
-# 🧠 **Linha do Tempo da Minha Evolução**
-```mermaid
-timeline
-    title Minha Jornada na Tecnologia
-    2018 : Início dos estudos em TI
-    2020 : Graduação em ADS
-    2021 : Financeiro → Aprendizagem corporativa
-    2022 : GovTech → Desenvolvedor Backend (LSP/SQL)
-    2023 : Full Stack → React / Java / C#
-    2024 : DevOps e Arquitetura → Expansão técnica
-    2025 : Pós-graduação Java / Projetos avançados
-    2030 : Tech Lead / Arquiteto
-    2035 : CTO
-
-
 ## 🎓 Conhecimento 
 <table> 
 <tbody style="text-align:center">
