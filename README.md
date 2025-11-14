@@ -39,7 +39,7 @@ Sou movido por tecnologia, aprendizado contínuo e desafios reais.
 ## 🐍 Snake Contributions
 <div align="center">
 
-![Snake animation](https://github.com/Gucs1/Gucs1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gucs1/Gucs1/blob/output/snake-dark.svg)
 
 </div>
 
