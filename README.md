@@ -4,12 +4,6 @@
 
 ---
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Gucs1&color=00BFFF&style=flat-square" />
-</div>
-
----
-
 ## 📊 Estatísticas GitHub
 
 <div align="center">  
