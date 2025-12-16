@@ -10,14 +10,6 @@
 
 ---
 
-## 👨‍💻 Sobre mim  
-Sou desenvolvedor full stack com 3 anos de experiência, apaixonado por criar sistemas eficientes e de alto impacto.  
-Atuo principalmente com Java, Spring, LSP (Senior Sistemas) e SQL Server.  
-Busco evoluir para cargos de liderança técnica como Arquiteto de Software e, futuramente, CTO.  
-Sou movido por tecnologia, aprendizado contínuo e desafios reais.
-
----
-
 ## 📊 Estatísticas GitHub
 
 <div align="center">  
