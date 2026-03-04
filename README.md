@@ -129,6 +129,7 @@ Desenvolvimento de aplicações web performáticas e preparadas para ranqueament
 
 ### 🔄 Versionamento & Métodos
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](#)
 [![Scrum](https://img.shields.io/badge/Scrum-Agile-blueviolet)](#)
 [![Kanban](https://img.shields.io/badge/Kanban-Workflow-yellow)](#)
