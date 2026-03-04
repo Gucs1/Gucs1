@@ -90,21 +90,40 @@ Desenvolvimento de aplicações web performáticas e preparadas para ranqueament
 
 ## 🎓 Stack Técnica
 
-### Backend
-Java • Spring Boot • LSP • APIs REST • Orientação a Objetos • SOLID  
-
-### Banco de Dados
-SQL Server • PostgreSQL • MySQL  
-
-### Frontend
-React • Next.js • TypeScript • Tailwind CSS • JavaScript  
-
-### Arquitetura & Engenharia
-UML • Padrões de Projeto • Arquitetura em Camadas • Clean Code  
-
-### Versionamento & Métodos
-Git • GitLab • Scrum • Kanban  
+### 👨🏻‍💻 Backend
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 ---
+
+### 🗄️ Banco de Dados
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
+
+---
+
+### 🎨 Frontend
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+
+---
+
+### 🏗️ Arquitetura & Engenharia
+[![SOLID](https://img.shields.io/badge/SOLID-Principles-blue)](#)
+[![UML](https://img.shields.io/badge/UML-Modeling-orange)](#)
+[![Clean Code](https://img.shields.io/badge/Clean%20Code-Engineering-green)](#)
+
+---
+
+### 🔄 Versionamento & Métodos
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](#)
+[![Scrum](https://img.shields.io/badge/Scrum-Agile-blueviolet)](#)
+[![Kanban](https://img.shields.io/badge/Kanban-Workflow-yellow)](#)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
