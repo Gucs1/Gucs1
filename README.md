@@ -16,7 +16,7 @@
 ## 🌐 Portfolio
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://schimidt-studio.vercel.app/)
 
 </div>
 
