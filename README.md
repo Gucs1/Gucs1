@@ -1,6 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+de+Sistemas;Full+Stack+com+Base+em+Engenharia;Java+•+Spring+Boot+•+Next.js;Sistemas+Corporativos+e+Web+Moderna;Seja+bem-vindo!+🚀)](https://git.io/typing-svg)
+<h1 align="center">Gustavo Coelho Schimidt</h1>
+
+<h3 align="center">
+Desenvolvedor de Sistemas • Full Stack com base em Engenharia de Software
+</h3>
+
+<p align="center">
+Atuando com sistemas corporativos, regras de negócio complexas e desenvolvimento web moderno.
+</p>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=30&center=true&vCenter=true&width=1000&lines=Java+em+Especialização;Spring+Boot+•+APIs+REST;Next.js+•+React+•+TypeScript;Sistemas+Corporativos+e+Web+Moderna;Bem-vindo+ao+meu+GitHub!+🚀)](https://git.io/typing-svg)
 
 ---
 
