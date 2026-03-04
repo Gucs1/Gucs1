@@ -3,7 +3,7 @@
 <h1 align="center">Gustavo Coelho Schimidt</h1>
 
 <h3 align="center">
-Desenvolvedor de Sistemas
+Desenvolvedor de Sistemas | Full Stack
 </h3>
 
 <p align="center">
