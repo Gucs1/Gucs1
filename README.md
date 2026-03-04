@@ -105,18 +105,13 @@ Desenvolvimento de aplicações web performáticas e preparadas para ranqueament
 ---
 
 ### 🎨 Frontend
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) 
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-
----
-
-### 🏗️ Arquitetura & Engenharia
-[![SOLID](https://img.shields.io/badge/SOLID-Principles-blue)](#)
-[![UML](https://img.shields.io/badge/UML-Modeling-orange)](#)
-[![Clean Code](https://img.shields.io/badge/Clean%20Code-Engineering-green)](#)
 
 ---
 
