@@ -7,7 +7,7 @@ Desenvolvedor de Sistemas
 </h3>
 
 <p align="center">
-Atuando com sistemas corporativos, regras de negócio complexas e desenvolvimento web moderno.
+Atuando com sistemas corporativos, regras de negócio e desenvolvimento web moderno.
 </p>
 
 <br>
@@ -33,7 +33,7 @@ Atuando com sistemas corporativos, regras de negócio complexas e desenvolviment
 **Pública Tecnologia — Desenvolvedor de Sistemas**
 
 • Desenvolvimento e manutenção de rotinas críticas em sistemas de gestão pública  
-• Implementação de regras de negócio complexas e validações sistêmicas  
+• Implementação de regras de negócio e validações sistêmicas  
 • Estruturação e otimização de consultas SQL Server  
 • Aplicação prática de Java em atividades internas corporativas   
 • Atuação em ambiente ágil (Scrum e Kanban)  
