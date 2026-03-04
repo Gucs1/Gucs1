@@ -1,27 +1,54 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Java+•+Spring+Boot+•+React+•+TypeScript;Construindo+aplicações+web+escaláveis;Do+Backend+ao+Frontend;Seja+bem-vindo!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+de+Sistemas;Full+Stack+com+Base+em+Engenharia;Java+•+Spring+Boot+•+Next.js;Sistemas+Corporativos+e+Web+Moderna;Seja+bem-vindo!+🚀)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor Full Stack  
-⚙️ Foco em Java, Spring Boot e tecnologias modernas de frontend  
-🗄️ Experiência com bancos de dados relacionais  
-☁️ Interesse em Cloud, Arquitetura e boas práticas  
+💻 Desenvolvedor de Sistemas com +3 anos de experiência em software corporativo  
+🏛️ Atuação em sistemas de gestão pública com regras de negócio complexas  
+📚 Atualmente em especialização em Java e Spring Boot (pós-graduação + treinamentos corporativos)  
+🌐 Fundador da Schimidt Studio Dev, desenvolvendo websites modernos com Next.js  
+🗄️ Forte experiência com SQL Server e modelagem relacional  
+☁️ Foco em Arquitetura de Software, boas práticas e evolução contínua  
 📍 Santa Catarina - Brasil  
 
 ---
 
-## 🏗️ O que eu desenvolvo
+## 🏢 Experiência Corporativa
 
-✔️ APIs REST seguras  
-✔️ Aplicações Web Full Stack  
-✔️ Sistemas empresariais  
-✔️ Modelagem e otimização de banco de dados  
-✔️ Interfaces modernas e responsivas  
-✔️ Sistemas com autenticação e controle de acesso  
+**Pública Tecnologia — Desenvolvedor de Sistemas**
+
+• Desenvolvimento e manutenção de rotinas críticas em sistemas de gestão pública  
+• Implementação de regras de negócio complexas e validações sistêmicas  
+• Estruturação e otimização de consultas SQL Server  
+• Aplicação prática de Java em atividades internas corporativas   
+• Atuação em ambiente ágil (Scrum e Kanban)  
+
+---
+
+## 🌐 Schimidt Studio Dev — Websites Modernos
+
+Desenvolvimento de aplicações web performáticas e preparadas para ranqueamento no Google.
+
+### Stack principal:
+
+• Next.js 16  
+• React 19+  
+• TypeScript 5+  
+• Tailwind CSS v4  
+• Framer Motion  
+• Zustand  
+• Node.js 20+  
+
+### Serviços:
+
+✔️ Desenvolvimento de websites modernos  
+✔️ SEO técnico e estrutura para indexação no Google  
+✔️ Performance e otimização  
+✔️ Deploy e configuração de hospedagem  
+✔️ Estruturação para geração de leads  
 
 ---
 
@@ -43,7 +70,7 @@
 
 ---
 
-## 📬 Meus contatos
+## 📬 Contato
 
 <p align="center">
     <a href="https://github.com/Gucs1">
@@ -61,67 +88,22 @@
 
 ---
 
-## 🎓 Conhecimento 
-<table> 
-<tbody style="text-align:center">
+## 🎓 Stack Técnica
 
-<tr>
-<td >👨🏻‍💻</td>
-<td>Backend</td>
-<td>
+### Backend
+Java • Spring Boot • LSP • APIs REST • Orientação a Objetos • SOLID  
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+### Banco de Dados
+SQL Server • PostgreSQL • MySQL  
 
-</td>
-</tr>
+### Frontend
+React • Next.js • TypeScript • Tailwind CSS • JavaScript  
 
-<tr>
-<td>👁‍🗨</td>
-<td>Frontend</td>
-<td>
+### Arquitetura & Engenharia
+UML • Padrões de Projeto • Arquitetura em Camadas • Clean Code  
 
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-
-</td>
-</tr>
-
-<tr>
-<td>🖼️</td>
-<td>Framework</td>
-<td>
-  
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
-![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
-
-</td>
-</tr>
-
-<tr>
-<td >🪑🎲</td>
-<td >Banco de Dados</td>
-<td>
-
-![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
-![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)&nbsp;
-![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat&logo=microsoft-Sql-Server)&nbsp;
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
-
-</td>
-</tr>
-
-</tbody>
-</table>
+### Versionamento & Métodos
+Git • GitLab • Scrum • Kanban  
 
 ---
 
