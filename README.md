@@ -41,6 +41,8 @@ Tenho especial interesse na construção de soluções que sejam organizadas, te
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 ### 🎨 Frontend
 
@@ -56,10 +58,36 @@ Tenho especial interesse na construção de soluções que sejam organizadas, te
 
 ### 🗄️ Banco de Dados
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
+
+### ⚙️ DevOps, Cloud e Observabilidade
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+
+### 🤖 Inteligência Artificial e Desenvolvimento
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?logo=openai&logoColor=white)
+![Coding Agents](https://img.shields.io/badge/Coding_Agents-6366F1)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-2563EB)
+![AGENTS.md](https://img.shields.io/badge/AGENTS.md-374151)
+
+### 🏗️ Engenharia de Software
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2563EB)
+![SOLID](https://img.shields.io/badge/SOLID-6D28D9)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-0F766E)
+![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-0369A1)
+![DevEx](https://img.shields.io/badge/DevEx-7C3AED)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-B91C1C)
 
 ### 🔄 Versionamento e Metodologias
 
@@ -68,8 +96,6 @@ Tenho especial interesse na construção de soluções que sejam organizadas, te
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-Agile-7952B3)
 ![Kanban](https://img.shields.io/badge/Kanban-Workflow-007ACC)
-
----
 
 ## 🚀 Atualmente aprofundando
 
