@@ -11,12 +11,6 @@ Desenvolvedor de Software | Engenharia de Software | Full Stack
 Desenvolvimento de sistemas corporativos, soluções web e evolução contínua em Engenharia de Software.
 </p>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Engenharia+de+Software+e+Arquitetura;Clean+Code+%7C+SOLID+%7C+Design+Patterns;Java+%7C+Spring+Boot+%7C+APIs+REST;React+%7C+Next.js+%7C+TypeScript;Qualidade+e+Evolucao+de+Software)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ## 🚀 Sobre mim
