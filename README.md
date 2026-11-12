@@ -85,9 +85,7 @@ Tenho especial interesse na construção de soluções que sejam organizadas, te
 ![SOLID](https://img.shields.io/badge/SOLID-6D28D9)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-0F766E)
 ![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-0369A1)
-![DevEx](https://img.shields.io/badge/DevEx-7C3AED)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-B91C1C)
 
 ### 🔄 Versionamento e Metodologias
 
