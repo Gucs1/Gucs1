@@ -40,30 +40,6 @@ Atuando com sistemas corporativos, regras de negócio e desenvolvimento web mode
 
 ---
 
-## 🌐 Schimidt Studio Dev — Websites Modernos
-
-Desenvolvimento de aplicações web performáticas e preparadas para ranqueamento no Google.
-
-### Stack principal:
-
-• Next.js 16  
-• React 19+  
-• TypeScript 5+  
-• Tailwind CSS v4  
-• Framer Motion  
-• Zustand  
-• Node.js 20+  
-
-### Serviços:
-
-✔️ Desenvolvimento de websites modernos  
-✔️ SEO técnico e estrutura para indexação no Google  
-✔️ Performance e otimização  
-✔️ Deploy e configuração de hospedagem  
-✔️ Estruturação para geração de leads  
-
----
-
 ## 🐍 Snake Contributions
 <div align="center">
     
@@ -76,7 +52,7 @@ Desenvolvimento de aplicações web performáticas e preparadas para ranqueament
 ## 🌐 Portfólio
 <div align="center">
 
-[![Schimidt Studio Dev](https://img.shields.io/badge/Schimidt%20Studio%20Dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://schimidt-studio.vercel.app/)
+[![Schimidt Studio Dev](https://img.shields.io/badge/Schimidt%20Studio%20Dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gustavocsdev.com.br/)
 
 </div>
 
