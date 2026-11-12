@@ -95,6 +95,8 @@ Tenho especial interesse na construção de soluções que sejam organizadas, te
 ![Scrum](https://img.shields.io/badge/Scrum-Agile-7952B3)
 ![Kanban](https://img.shields.io/badge/Kanban-Workflow-007ACC)
 
+---
+
 ## 🚀 Atualmente aprofundando
 
 Meu foco atual de estudos e projetos está direcionado a:
