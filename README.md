@@ -4,10 +4,6 @@
 
 Desenvolvedor de software com mais de **4 anos de experiência em sistemas corporativos**, com foco em Engenharia de Software, arquitetura, qualidade e evolução contínua de soluções tecnológicas.
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.gustavocsdev.com.br/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-coelho-schimidt-286311214)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Gustavocs.dev@gmail.com)
-
 ---
 
 ## 👨🏻‍💻 Sobre mim
