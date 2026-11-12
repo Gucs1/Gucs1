@@ -4,8 +4,6 @@
 
 Desenvolvedor de software com mais de 4 anos de experiência em sistemas corporativos, com foco em Engenharia de Software, arquitetura, qualidade e evolução contínua de soluções tecnológicas.
 
-[Portfólio](https://www.gustavocsdev.com.br/) · [LinkedIn](https://www.linkedin.com/in/gustavo-coelho-schimidt-286311214) · [Contato](mailto:Gustavocs.dev@gmail.com)
-
 ---
 
 ## 👨🏻‍💻 Sobre mim
