@@ -20,28 +20,6 @@ Busco compreender não apenas a implementação de funcionalidades, mas também 
 
 ---
 
-## 🏗️ Engenharia de Software
-
-### Arquitetura e Design
-
-- Clean Architecture e arquitetura em camadas
-- Princípios SOLID, Clean Code e Design Patterns
-- Separação de responsabilidades e modularidade
-- Baixo acoplamento e alta coesão
-- Modelagem de dados e integração de sistemas
-- Organização e evolução de aplicações corporativas
-
-### Qualidade e Desenvolvimento
-
-- Boas práticas de desenvolvimento e manutenção
-- Refatoração e revisão de código
-- Testes automatizados e análise estática
-- Tratamento de erros e validações
-- Desenvolvimento e integração de APIs REST
-- Versionamento e integração contínua
-- Documentação e padronização técnica
-
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
