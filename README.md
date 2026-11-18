@@ -12,8 +12,6 @@ Sou desenvolvedor de software com mais de **4 anos de experiência em sistemas c
 
 Meu foco está na **Engenharia de Software e Arquitetura de Software**, com ênfase em boas práticas de desenvolvimento, qualidade de código, modularidade e manutenibilidade de sistemas.
 
-Atualmente, aprofundo meus conhecimentos em **Platform Engineering, Developer Experience (DevEx), observabilidade, automação, DevSecOps e desenvolvimento assistido por inteligência artificial**, explorando práticas que contribuam para a eficiência e a qualidade dos processos de engenharia.
-
 Busco desenvolver soluções **organizadas, testáveis, observáveis, seguras e sustentáveis**, considerando não apenas a implementação de funcionalidades, mas também as decisões arquiteturais e o ciclo de vida do software.
 
 📍 Santa Catarina, Brasil
@@ -89,42 +87,40 @@ Busco desenvolver soluções **organizadas, testáveis, observáveis, seguras e 
 
 ## 🚀 Atualmente aprofundando
 
-Meu foco atual de estudos e projetos está direcionado à aplicação de práticas modernas de Engenharia de Software.
+Aprofundando conhecimentos e explorando práticas modernas de Engenharia de Software, com foco em arquitetura, automação, qualidade e eficiência no desenvolvimento.
 
 **🤖 AI-Assisted Development**
-- Harness Engineering e Context Engineering
-- Coding Agents, Codex, AGENTS.md e Skills
+- Harness Engineering, Context Engineering e Coding Agents
+- Codex, AGENTS.md e Skills
 - Padronização de instruções e fluxos de desenvolvimento com IA
 
-**🏗️ Platform Engineering & Developer Experience**
-- Padronização de arquiteturas e projetos
+**🏗️ Platform Engineering & DevEx**
+- Padronização de projetos e arquiteturas
 - Templates reutilizáveis e ambientes reproduzíveis
-- Automação de tarefas e melhoria da experiência de desenvolvimento
+- Automação e melhoria da experiência de desenvolvimento
 
 **📊 Observabilidade**
-- OpenTelemetry e instrumentação de aplicações
-- Logs estruturados, métricas e traces distribuídos
-- Monitoramento e dashboards com Prometheus e Grafana
+- OpenTelemetry, logs estruturados, métricas e traces
+- Monitoramento com Prometheus e Grafana
+- Instrumentação e diagnóstico de aplicações
 
-**🔄 Qualidade, CI/CD e Segurança**
+**🔄 Qualidade, CI/CD & DevSecOps**
 - Testes automatizados e análise estática
-- Pipelines de integração e entrega contínua
-- Security Engineering e DevSecOps
-- Análise de dependências e vulnerabilidades
+- Integração e entrega contínua
+- Segurança no desenvolvimento e análise de vulnerabilidades
 
 **🐍 Ecossistema Python**
-- Desenvolvimento de APIs com FastAPI
-- PostgreSQL e modelagem relacional
-- Arquitetura e organização de aplicações corporativas
-- Integração entre backend, frontend e infraestrutura
+- Python, FastAPI e PostgreSQL
+- Desenvolvimento e integração de APIs
+- Arquitetura e organização de aplicações full stack
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Evoluir continuamente em Engenharia de Software, desenvolvendo uma visão mais abrangente sobre arquitetura, qualidade, segurança, automação e operação de sistemas.
+Consolidar minha trajetória em **Engenharia de Software e Arquitetura de Software**, ampliando minha capacidade de projetar, desenvolver e evoluir soluções tecnológicas com qualidade, segurança e escalabilidade.
 
-Busco aplicar esses conhecimentos na construção de soluções corporativas confiáveis, escaláveis e sustentáveis, utilizando tecnologias modernas e práticas que contribuam para a produtividade e a qualidade do desenvolvimento.
+Busco contribuir para a construção de sistemas **confiáveis, sustentáveis e de fácil manutenção**, aplicando boas práticas de engenharia, automação e decisões arquiteturais que gerem valor para o negócio.
 
 ---
 
