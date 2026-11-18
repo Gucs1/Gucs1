@@ -1,6 +1,6 @@
 # Gustavo Coelho Schimidt
 
-### Software Developer | Software Engineering | Architecture & AI-Assisted Development
+### Software Developer | Software Engineering 
 
 Desenvolvedor de software com mais de **4 anos de experiência em sistemas corporativos**, com foco em Engenharia de Software, arquitetura, qualidade e evolução contínua de soluções tecnológicas.
 
