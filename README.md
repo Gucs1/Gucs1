@@ -8,13 +8,13 @@ Desenvolvedor de software com mais de **4 anos de experiência em sistemas corpo
 
 ## 👨🏻‍💻 Sobre mim
 
-Atuo no desenvolvimento e manutenção de sistemas corporativos, com experiência em **regras de negócio complexas, sistemas de gestão pública, integração de aplicações e bancos de dados relacionais**.
+Sou desenvolvedor de software com mais de **4 anos de experiência em sistemas corporativos**, atuando no desenvolvimento, manutenção e evolução de aplicações, implementação de regras de negócio complexas, integração de sistemas e bancos de dados relacionais.
 
-Atualmente, direciono minha evolução profissional para Engenharia de Software, aprofundando conhecimentos em arquitetura, qualidade, automação, segurança e desenvolvimento assistido por inteligência artificial.
+Meu foco está na **Engenharia de Software e Arquitetura de Software**, com ênfase em boas práticas de desenvolvimento, qualidade de código, modularidade e manutenibilidade de sistemas.
 
-Tenho especial interesse na construção de soluções organizadas, testáveis, observáveis, seguras e sustentáveis ao longo do tempo.
+Atualmente, aprofundo meus conhecimentos em **Platform Engineering, Developer Experience (DevEx), observabilidade, automação, DevSecOps e desenvolvimento assistido por inteligência artificial**, explorando práticas que contribuam para a eficiência e a qualidade dos processos de engenharia.
 
-Busco compreender não apenas a implementação de funcionalidades, mas também as decisões arquiteturais, a qualidade do código e todo o ciclo de vida do software.
+Busco desenvolver soluções **organizadas, testáveis, observáveis, seguras e sustentáveis**, considerando não apenas a implementação de funcionalidades, mas também as decisões arquiteturais e o ciclo de vida do software.
 
 📍 Santa Catarina, Brasil
 
